@@ -1,0 +1,10 @@
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\bin\Debug\SimulacionCarrera.exe.config
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\bin\Debug\SimulacionCarrera.exe
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\bin\Debug\SimulacionCarrera.pdb
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.csproj.AssemblyReference.cache
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.Form1.resources
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.Properties.Resources.resources
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.csproj.GenerateResource.cache
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.exe
+C:\Users\Joseph Almonte\source\repos\SimulacionCarrera\SimulacionCarrera\obj\Debug\SimulacionCarrera.pdb
